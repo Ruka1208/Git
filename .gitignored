@@ -1,0 +1,15 @@
+# Bỏ qua các tệp tạm thời
+*.tmp
+*.bak
+
+# Bỏ qua thư mục output
+output/
+
+# Bỏ qua tệp log
+*.log
+
+# Bỏ qua các tệp cấu hình cục bộ
+config.ini
+
+# Bỏ qua thư mục dependencies
+node_modules/
